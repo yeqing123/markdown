@@ -2,7 +2,7 @@
 
 ## 内嵌式链接Demo
 - ### 链接仓库内的其他文件：[demo1](demo1.md)
-- ### 链接文档内的其他部分：[代码块](demo2.md#代码块-demo)
+- ### 链接文档内的其他部分：[代码块](demo2.md#代码块)
 
 ## 外部链接Demo
 [百度](https://www.baidu.com)
@@ -14,7 +14,7 @@
 # 图片
 
 ## 外部图片Demo:
-![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片")
+![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png) "百度图片")
 
 ## 项目内部图片Demo:
 ![Kung Fu panda](images/panda.jpg "功夫熊猫")
