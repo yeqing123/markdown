@@ -33,23 +33,23 @@ My profile:
 - Name: yeqing
 - QQ:51295367
 - Email:
-  - QQ邮箱：
-    - 51295367@qq.com
-  - 网易邮箱：
-	- yeqing_613@163.com
-    - yeqing_613@163.com
+    - QQ邮箱：
+        - 51295367@qq.com
+    - 网易邮箱：
+	    - yeqing_613@163.com
+        - yeqing_613@163.com
 
 My profile:
 * Name: yeqing
 * QQ:51295367
 * Email:
-  * QQ邮箱：
-    * 51295367@qq.com
-  * 网易邮箱：
-	* yeqing_613@163.com
-    * yeqing_613@163.com 
+    * QQ邮箱：
+        * 51295367@qq.com
+    * 网易邮箱：
+	    * yeqing_613@163.com
+        * yeqing_613@163.com 
 
-# 有序列表：
+# 有序列表(注意：子列表一定要比父列表缩进4个空格，而不是两个)：
 
 My profile:
 1. Name:yeqing
@@ -65,11 +65,11 @@ My profile:
 1. Name:yeqing
 3. QQ:51235367
 2. Email:
-  1. QQ邮箱：
-    1. 51295367@qq.com
-  2. 网易邮箱：
-    1. yeqing_613@163.com  
-	2. yeqing_11613@163.com
+    1. QQ邮箱：
+        1. 51295367@qq.com
+    2. 网易邮箱：
+        1. yeqing_613@163.com  
+	    2. yeqing_11613@163.com
 
 
 # 强调
