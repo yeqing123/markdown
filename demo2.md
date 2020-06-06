@@ -24,7 +24,18 @@
 - ![kung fu panda][Kung Fu panda]
 # 代码块
 
+## 行内代码Demo
+定义了一个javascript变量 `var a = 10`  并且调用了方法 `console.log(a)` 来显示该变量。
 
+## 块式代码Demo
+```javascript
+var a = 10;
+console.log(a);
+```
+
+### 块式代码的另一种写法(但是这种方法无法实现语法高亮)
+    var a = 10;
+    console.log(a);
 
 
 <!-- 定义链接引用 -->
@@ -32,5 +43,5 @@
 [demo1]:demo1.md
 
 <!-- 定义图片引用 -->
-[baidu]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片"
-[Kung Fu panda]: images/panda.jpg "功夫熊猫"
+[baidu]:https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片"
+[Kung Fu panda]:images/panda.jpg "功夫熊猫"
