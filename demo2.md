@@ -14,7 +14,7 @@
 # 图片
 
 ## 外部图片Demo:
-![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png) "百度图片")
+![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片")
 
 ## 项目内部图片Demo:
 ![Kung Fu panda](images/panda.jpg "功夫熊猫")
@@ -32,5 +32,5 @@
 [demo1]:demo1.md
 
 <!-- 定义图片引用 -->
-[baidu]:https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片"
-[Kung Fu panda]:images/panda.jpg "功夫熊猫"
+[baidu]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片"
+[Kung Fu panda]: images/panda.jpg "功夫熊猫"
