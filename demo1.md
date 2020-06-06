@@ -54,12 +54,12 @@ My profile:
 My profile:
 1. Name:yeqing
 2. QQ:51235367
-3. Email:
-  1. QQ邮箱：
-    1. 51295367@qq.com
-  2. 网易邮箱：
-    1. yeqing_613@163.com  
-	2. yeqing_11613@163.com
+3. Email:  
+    1. QQ邮箱：  
+        1. 51295367@qq.com  
+    2. 网易邮箱：  
+        1. yeqing_613@163.com  
+	    2. yeqing_11613@163.com
 
 My profile:
 1. Name:yeqing
