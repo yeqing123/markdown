@@ -6,7 +6,7 @@
 [日志/参考/UI元素/回滚 窗格](Features.md##日志/参考/UI元素/回滚窗格)
   - [日志窗格](Features.md###日志窗格)  
   - [参考窗格](Features.md###参考窗格)  
-  - [UI-元素和回滚窗格](Features.md###UI-元素和回滚窗格)
+  - [UI-元素和回滚窗格](Features.md#UI-元素和回滚窗格)
 
 
 ## 菜单栏
