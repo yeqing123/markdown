@@ -20,7 +20,9 @@
 ![Kung Fu panda](images/panda.jpg "功夫熊猫")
 
 ## 引用图片Demo
+### 外部图片的引用式插入
 - ![百度][baidu]
+### 内部图片的引用式插入
 - ![kung fu panda][Kung Fu panda]
 # 代码块
 
