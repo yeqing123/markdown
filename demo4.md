@@ -32,8 +32,6 @@
   1. item1.1
   2. item1.2
 2. item 2
-
-
 1. item 3
   2. item3.1
   3. item3.2
