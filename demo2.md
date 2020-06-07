@@ -21,7 +21,8 @@
 
 ## 引用图片Demo
 ### 外部图片的引用式插入
-- ![百度][baidu]
+- ![][baidu_logo]
+
 ### 内部图片的引用式插入
 - ![kung fu panda][Kung Fu panda]
 # 代码块
@@ -40,10 +41,17 @@ console.log(a);
     console.log(a);
 
 
+## 引用
+### 单层引用
+> 只要功夫深，铁杵磨成针！！
+
+### 多重引用
+>>> 兴趣是最好的老师！！
+
 <!-- 定义链接引用 -->
 [baidu]:https://www.baidu.com
 [demo1]:demo1.md
 
 <!-- 定义图片引用 -->
-[baidu]:https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图片"
+[baidu_logo]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度logo"
 [Kung Fu panda]:images/panda.jpg "功夫熊猫"
